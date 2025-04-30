@@ -29,10 +29,4 @@ git clone https://github.com/TexKill/nexcent.git
 2. Open `index.html` in browser or use Prepros to compile SCSS.
 3. Optional: Edit and extend components in `components.html`.
 
-## 🔗 Live Demo
-
-[🔗 View Site](https://TexKill.github.io/nexcent/)
-
----
-
 > Created as part of my Junior Front-End portfolio. Feel free to fork or use as inspiration!
