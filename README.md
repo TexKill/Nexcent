@@ -20,7 +20,15 @@ Responsive and modern landing page for a fictional SaaS company. Built with sema
 
 ## 📁 Project Structure
 
-nexcent/ ├── index.html ├── components.html ├── #source/ │ └── scss/ │ ├── style.scss │ └── nullstyle.scss ├── prepros.config └── .git/
+nexcent/ 
+├── index.html 
+├── components.html 
+├── #source/ │ 
+             └── scss/ │ 
+                       ├── style.scss │ 
+                       └── nullstyle.scss 
+├── prepros.config 
+└── .git/
 
 ## 🚀 Getting Started
 
